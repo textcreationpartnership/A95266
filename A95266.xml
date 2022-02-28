@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the rising of the Club-men in Sussex. As it was related to William Lenthall Esq; Speaker to the Honorable House of Commons, by an eye-witnesse of the same. Published by authority.</title>
+            <author>Eye-witnesse.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95266</idno>
+            <idno type="STC">Wing T3037</idno>
+            <idno type="STC">Thomason E302_18</idno>
+            <idno type="STC">ESTC R200282</idno>
+            <idno type="EEBO-CITATION">99861088</idno>
+            <idno type="PROQUEST">99861088</idno>
+            <idno type="VID">113216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E302[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the rising of the Club-men in Sussex. As it was related to William Lenthall Esq; Speaker to the Honorable House of Commons, by an eye-witnesse of the same. Published by authority.</title>
+                  <author>Eye-witnesse.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Field,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Sept. 23. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Personal narratives.</term>
+               <term>Sussex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113216:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:113216:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A True RELATION OF The Riſing of the CLVB-MEN IN <hi>S<g ref="char:V">Ʋ</g>SSEX.</hi> As it was Related to <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker to the Hono<g ref="char:EOLhyphen"/>rable Houſe of Commons, by an eye-witneſſe of the ſame.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>John Field,</hi> Sept. 23. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113216:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="3" facs="tcp:113216:2"/>
+            <!-- PDF PAGE 38 -->
+            <p>A Third party, generally of a contempti<g ref="char:EOLhyphen"/>ble and baſe condition, without and contrary to all Authority, have lately auda<g ref="char:EOLhyphen"/>ciouſly adventured to riſe in great numbers to the diſturbance of the publique peace and tranquility of this formerly one of the hap<g ref="char:EOLhyphen"/>pieſt Kingdoms in Europe, if not in the whole world, untill their elder Brethren became evil Councellors unto His Majeſty, and placed many thouſands of their kinde to joyn with them; and being arrayed and armed in a moſt hoſtile manner, have inva<g ref="char:EOLhyphen"/>ded, and endeavoured to ſpoil and deſtroy the Subjects, together with their Rights, Li<g ref="char:EOLhyphen"/>berties and Religion, which to every honeſt man is far more precious then any, nay all other earthly things; they having procured a pretended Authority from His Majeſty, to accompliſh their inordinate and moſt hide<g ref="char:EOLhyphen"/>ous deſires.</p>
+            <p>But this third party, not having the leaſt ſhew or pretence of any Authority, and con<g ref="char:EOLhyphen"/>trary
+<pb n="4" facs="tcp:113216:3"/>
+               <!-- PDF PAGE 39 -->to the chiefeſt power of this Kingdom the Parliament, called by His Majeſty at Weſtminſter, have tumultuouſly aſſembled themſelves together, not onely in the Weſt, but alſo through their inſtigations have cau<g ref="char:EOLhyphen"/>ſed many thouſands of the ignorant in the adiacent counties to riſe up together with them as far as Hampſhire, divers of which ſaid county, not contented with their own prepoſterous courſes, have proceeded to in<g ref="char:EOLhyphen"/>veagle divers people of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> adjacent county of Suſſex to follow their evil cour<g ref="char:EOLhyphen"/>ſes, amongſt which they have prevailed with one Aylen, ſon to one Mr. Aylen formerly Captain of a Trained Band, alſo one Mr. Peckham, beſides ſome of the Fords, and ſome others Yeomen of the ſaid county, to joyn together as Ring leaders <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confede<g ref="char:EOLhyphen"/>racy with the Vulgar multitude, who being ignorant of manners, much more of ſuch things as concerns their Liberty and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Did accordingly proceed to ſend forth di<g ref="char:EOLhyphen"/>vers Warrants unto the ſeverall Towns and Hamlets next adjoyning to Hampſhire, as alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and about Midhurſt, to joyn with
+<pb n="5" facs="tcp:113216:3"/>
+               <!-- PDF PAGE 39 -->them in keeping of a generall Rendezvous upon Ronckon hill, which is betwixt Mid<g ref="char:EOLhyphen"/>hurſt and Chicheſter in the ſaid county, which was done accordingly upon laſt Wed<g ref="char:EOLhyphen"/>neſday: Since which time, they have fur<g ref="char:EOLhyphen"/>ther proceeded to call in the reſt of the coun<g ref="char:EOLhyphen"/>try betwixt Chicheſter and Arundel to joyn with them in a generall Rendezvous, to be held at Berry hill within one mile of Arun<g ref="char:EOLhyphen"/>del upon Munday the two and twentieth of this preſent, many people of the ſaid places, eſpecially about Iſter gate and Wabberton; and ſo down to the ſea-ſide, and upon the Weſtern ſide of the River of Arundell to<g ref="char:EOLhyphen"/>wards Petworth have joyned with them, and drawing themſelves into great numbers upon Saturday the twentieth of this preſent, they kept their quarters at Mabberton and divers other places thereabouts, their num<g ref="char:EOLhyphen"/>ber being greatly increaſed, and they ren<g ref="char:EOLhyphen"/>dring no accompt of their ſaid tumultuous proceedings; the Honorable Col: Morley, Capt: Morley Governour of Arundel caſtle, &amp; Major Yong, upon conſultation thought fit to fall on them in their quarters at Mab<g ref="char:EOLhyphen"/>berton,
+<pb n="6" facs="tcp:113216:4"/>
+               <!-- PDF PAGE 40 -->as being the next place to them, and within five miles of Arundel, hoping there<g ref="char:EOLhyphen"/>by to diſhearten and diſappoint them in continuing their tumultuous proceedings; and accordingly upon Sunday morning a<g ref="char:EOLhyphen"/>bout three hours before day, Major Yong with about ten horſmen and forty Footmen fell upon them in their quarters at Mabber<g ref="char:EOLhyphen"/>ton, killed him who went to ring the Bells as the moſt dangerous man, by his doings, to call in the reſt of their adherents to their aid, which by his death was prevented; where<g ref="char:EOLhyphen"/>upon the reſt of them ſo far loſt their cou<g ref="char:EOLhyphen"/>rage, that every one ſhifted for themſelves, &amp; fled all, ſaving two Malignant Miniſters, and ſome other ſtrangers to that place, who were taken priſoners, and are committed in ſafe cuſtody unto Arundel caſtle, where it is be<g ref="char:EOLhyphen"/>lieved they ſhall receive according to their de<g ref="char:EOLhyphen"/>merits, ſuch exemplary puniſhment as will give good warning to the reſt of their Tribe to beware how they follow them, and pro<g ref="char:EOLhyphen"/>ceed in the like prepoſterous courſes.</p>
+            <p>But if they be ſo fool-hardy as not to take warning, they will be ſure to feel the force
+<pb n="7" facs="tcp:113216:4"/>
+               <!-- PDF PAGE 40 -->of publique Iuſtice very ſhortly, which will be a ſure way to reduce them to a more civil condition at a dearer rate then any wiſe man will be willing to partake of; And doubtles the ſaid proceedings of the Governour of A<g ref="char:EOLhyphen"/>rundel (if it prevail not to do good on them as I hope it will) will prove but a Mole-hill to that mountain of ſorrows which they are like to ſuffer; but I wiſh they may conſider in time to reclaim themſelves and return to their callings, and not let Gods ſpeciall pro<g ref="char:EOLhyphen"/>vidence and goodnes, in ſending them an early Harveſt, produce ſo great an evil, as ſpending the remainder of their precious Autumn, in ſowing ſuch Seditious ſeed as can produce nothing but a further crop of Judgement, into vvhich this Nation is ſo far plunged, vvhich God for his great names ſake vvithhold and remove.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
